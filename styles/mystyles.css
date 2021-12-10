@@ -1,0 +1,102 @@
+.header-text {
+  color: aquamarine;
+}
+
+.homebg {
+  position: relative;
+  margin-bottom: 3rem;
+  padding-top: calc(8rem + 57px);
+  padding-bottom: 8rem;
+  background: no-repeat center center;
+  background-color: #6c757d;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.aboutheader {
+  position: relative;
+  margin-bottom: 3rem;
+  padding-top: calc(8rem + 57px);
+  padding-bottom: 4rem;
+  background: no-repeat center center;
+  background-color: #6c757d;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+/* italic */
+.italic {
+  font-style: italic;
+}
+
+/* BOLD */
+.bold {
+  font-weight: bold;
+}
+
+.resume {
+  left: 50px;
+}
+
+/* background color for mainbody */
+.sections {
+  background-color: rgb(60, 96, 121);
+}
+
+.section2 {
+  background-color: white;
+}
+
+/* footer color/positioning */
+.footercolor {
+  background: white;
+  right: 0px;
+  left: 0px;
+  display: block;
+  position: absolute;
+}
+
+/* Standard photo size for the website */
+.picsize {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border: white 2px solid;
+}
+
+/* For white text used on the page */
+.text {
+  text-align: center;
+  color: white;
+}
+
+.text2 {
+  text-align: center;
+  color: rgb(60, 96, 121);
+}
+
+.textwhite {
+  color: white;
+}
+
+.textblack {
+  text-align: center;
+  color: black;
+}
+
+.border {
+  border: white 2px solid;
+  padding: 5px;
+}
+
+/* Makes the text normal */
+.common {
+  text-decoration: none;
+  font-weight: normal;
+}
+
+/* On page links */
+.pagelinks {
+  font-size: 30px;
+}
